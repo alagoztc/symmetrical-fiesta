@@ -50,7 +50,7 @@ jobs:
     environment: production
 
     steps:
-    - name: Checkout
+    - name: alagoz
       uses: actions/checkout@v4
 
     - name: Configure AWS credentials
